@@ -1,0 +1,33 @@
+
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@color/color1"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Quintel"
+        android:textColor="@color/color3"
+        android:textSize="35dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="cursive"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Designed by Elon"
+        android:textColor="@color/color3"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-condensed"
+
+        />
+</LinearLayout>
